@@ -1,5 +1,5 @@
 # Hi there, this is ${\color{#79B3E6}\textbf{Youlun}}$👋
-&nbsp;&nbsp;&nbsp; ☆ 🌽 University of Illinois Champaign-Urbana, junior in CEE <br/>
+&nbsp;&nbsp;&nbsp; ☆ 🌽 University of Illinois Urbana-Champaign, junior in CEE <br/>
 &nbsp;&nbsp;&nbsp; ★ 🥐 Passionate about **full-stack** software development <br/>
 &nbsp;&nbsp;&nbsp; ☆ 🥞 Currently working as an undergraduate research assistant in **web development** <br/>
 &nbsp;&nbsp;&nbsp; ★ 🌰 Learning **Swift** 。。。 <br/>
