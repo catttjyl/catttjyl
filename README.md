@@ -29,7 +29,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br/>
 
-## ♣ Latest projects I'm working on
+## 💫 Latest projects I'm working on
 
 <a href="https://senmap.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="Webpage Title" width="400">
