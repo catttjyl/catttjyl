@@ -1,4 +1,4 @@
-![image](https://github.com/catttjyl/catttjyl/assets/92762878/7b989b95-33b1-4bc4-9be7-0a2900c3bf02)# Hi there, this is ${\color{#728A7A}\textbf{Youlun}}$👋
+# Hi there, this is ${\color{#728A7A}\textbf{Youlun}}$👋
 🌽 University of Illinois Champaign-Urbana, junior in CEE <br/>
 🥐 Passionate about full-stack software development <br/>
 🥞 Currently working as an undergraduate research assistant in web development <br/>
