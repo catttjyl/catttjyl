@@ -1,4 +1,11 @@
-### Hi there, this is Youlun👋
+### Hi there, this is ${\color{#728A7A}Youlun}$👋
+🥐 University of Illinois Champaign-Urbana, junior in CEE <br/>
+🍟 Passionate about full-stack software development <br/>
+🥞 Currently working as an undergraduate research assistant in web development <br/>
+🌰 Learning Swift... <br/>
+🍮 Dessert-loving fanatic
+🍦 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/)
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
