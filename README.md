@@ -1,10 +1,10 @@
 ### Hi there, this is ${\color{#728A7A}Youlun}$👋
-🥐 University of Illinois Champaign-Urbana, junior in CEE <br/>
-🍟 Passionate about full-stack software development <br/>
+🌽 University of Illinois Champaign-Urbana, junior in CEE <br/>
+🥐 Passionate about full-stack software development <br/>
 🥞 Currently working as an undergraduate research assistant in web development <br/>
 🌰 Learning Swift... <br/>
-🍮 Dessert-loving fanatic
-🍦 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/)
+🍮 Dessert-loving fanatic <br/>
+🍦 Learn more about me --> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/)
 
 
 # 💻 Tech Stack
@@ -31,6 +31,7 @@ Databases
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+# Project Highlights
 
 <!--
 **catttjyl/catttjyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
