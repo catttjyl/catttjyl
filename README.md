@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp; ☆ 🥞 Currently working as an undergraduate research assistant in **web development** <br/>
 &nbsp;&nbsp;&nbsp; ★ 🌰 Learning [**Swift**](https://developer.apple.com/swift/) 。。。 <br/>
 &nbsp;&nbsp;&nbsp; ☆ 🍮 Dessert-loving fanatic <br/>
-&nbsp;&nbsp;&nbsp; ★🍦 Learn more about me ☞ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/) &nbsp;[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)]("mailto:c.jiangyoulun@outlook.com")
+&nbsp;&nbsp;&nbsp; ★🍦 Learn more about me ☞ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/) &nbsp;[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:c.jiangyoulun@outlook.com)
 <!--#88C5E5-->
 
 ## 💻 I code with
