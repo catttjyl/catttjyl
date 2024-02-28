@@ -1,8 +1,8 @@
-# Hi there, this is ${\color{#79B3E6}\textbf{Youlun}}$👋
+# Hi there, this is ${\color{#79B3E6}\textbf{Youlun}}$ 👋
 &nbsp;&nbsp;&nbsp; ☆ 🌽 University of Illinois Urbana-Champaign, junior in CEE <br/>
 &nbsp;&nbsp;&nbsp; ★ 🥐 Passionate about **full-stack** software development <br/>
 &nbsp;&nbsp;&nbsp; ☆ 🥞 Currently working as an undergraduate research assistant in **web development** <br/>
-&nbsp;&nbsp;&nbsp; ★ 🌰 Learning **Swift** 。。。 <br/>
+&nbsp;&nbsp;&nbsp; ★ 🌰 Learning [**Swift**](https://developer.apple.com/swift/) 。。。 <br/>
 &nbsp;&nbsp;&nbsp; ☆ 🍮 Dessert-loving fanatic <br/>
 &nbsp;&nbsp;&nbsp; ★🍦 Learn more about me ☞ ![linkedin](https://github.com/catttjyl/catttjyl/assets/92762878/b947b0db-53e1-44a2-8cd6-d69a160d8f26)[LinkedIn](https://www.linkedin.com/in/youlun-jiang/) &nbsp;📬 youlunj2@illinois.edu
 <!--#88C5E5-->
