@@ -1,10 +1,10 @@
 # Hi there, this is ${\color{#728A7A}\textbf{Youlun}}$👋
-🌽 University of Illinois Champaign-Urbana, junior in CEE <br/>
-🥐 Passionate about full-stack software development <br/>
-🥞 Currently working as an undergraduate research assistant in web development <br/>
-🌰 Learning Swift... <br/>
-🍮 Dessert-loving fanatic <br/>
-🍦 Learn more about me --> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/)
+&nbsp;&nbsp;&nbsp; ☆ 🌽 University of Illinois Champaign-Urbana, junior in CEE <br/>
+&nbsp;&nbsp;&nbsp; ★ 🥐 Passionate about full-stack software development <br/>
+&nbsp;&nbsp;&nbsp; ☆ 🥞 Currently working as an undergraduate research assistant in $\textbf{web development}$ <br/>
+&nbsp;&nbsp;&nbsp; ★ 🌰 Learning Swift... <br/>
+&nbsp;&nbsp;&nbsp; ☆ 🍮 Dessert-loving fanatic <br/>
+&nbsp;&nbsp;&nbsp; ★🍦 Learn more about me --> ![LI-In-Bug](https://github.com/catttjyl/catttjyl/assets/92762878/4a580f1c-8ff4-48f8-a1bb-74011b8a10f2)[LinkedIn](https://www.linkedin.com/in/youlun-jiang/) &nbsp;📬 youlunj2@illinois.edu
 
 
 # 💻 Tech Stack
