@@ -1,4 +1,4 @@
-# Hi there, this is ${\color{#728A7A}\textbf{Youlun}}$👋
+![image](https://github.com/catttjyl/catttjyl/assets/92762878/7b989b95-33b1-4bc4-9be7-0a2900c3bf02)# Hi there, this is ${\color{#728A7A}\textbf{Youlun}}$👋
 🌽 University of Illinois Champaign-Urbana, junior in CEE <br/>
 🥐 Passionate about full-stack software development <br/>
 🥞 Currently working as an undergraduate research assistant in web development <br/>
@@ -32,7 +32,16 @@
 # ♣ Project Highlights
 
 <a href="https://senmap.netlify.app/">
-  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="Webpage Title" width="100">
+  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="Webpage Title" width="400">
+</a>
+<a href="https://cat-chat-app.netlify.app/">
+  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/5e02a62e-4ba7-4b44-a074-35e77a1921c8" alt="Webpage Title" width="400">
+</a>
+<a href="https://senmap.netlify.app/">
+  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/f73b928a-74c7-416f-ba10-3126e4b92e90" alt="Webpage Title" width="400">
+</a>
+<a href="https://cat-playstation.netlify.app/">
+  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/91c7a39d-68fa-48b0-9e8d-83a27f914b16" alt="Webpage Title" width="400">
 </a>
 
 <!--
