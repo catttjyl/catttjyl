@@ -1,4 +1,4 @@
-### Hi there, this is ${\color{#728A7A}Youlun}$👋
+# Hi there, this is ${\color{#728A7A}\textbf{Youlun}}$👋
 🌽 University of Illinois Champaign-Urbana, junior in CEE <br/>
 🥐 Passionate about full-stack software development <br/>
 🥞 Currently working as an undergraduate research assistant in web development <br/>
