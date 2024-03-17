@@ -36,10 +36,10 @@
 <a href="https://senmap.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="Webpage Title" width="400">
 </a>
-<a href="https://cat-chat-app.netlify.app/">
+<a href="https://chat-app-cat.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/5e02a62e-4ba7-4b44-a074-35e77a1921c8" alt="Webpage Title" width="400">
 </a>
-<a href="https://senmap.netlify.app/">
+<a href="https://netflixcatt.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/f73b928a-74c7-416f-ba10-3126e4b92e90" alt="Webpage Title" width="400">
 </a>
 <a href="https://cat-playstation.netlify.app/">
