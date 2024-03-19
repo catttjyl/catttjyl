@@ -33,7 +33,7 @@
 
 ## 💫 Latest projects I'm working on
 
-<a href="https://senmap.netlify.app/">
+<a href="https://senmapweb.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="Webpage Title" width="400">
 </a>
 <a href="https://chat-app-cat.netlify.app/">
@@ -42,7 +42,7 @@
 <a href="https://netflixcatt.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/f73b928a-74c7-416f-ba10-3126e4b92e90" alt="Webpage Title" width="400">
 </a>
-<a href="https://cat-playstation.netlify.app/">
+<a href="https://playstationcat.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/91c7a39d-68fa-48b0-9e8d-83a27f914b16" alt="Webpage Title" width="400">
 </a>
 
