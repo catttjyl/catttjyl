@@ -39,7 +39,7 @@
 <a href="https://chat-app-cat.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/5e02a62e-4ba7-4b44-a074-35e77a1921c8" alt="Webpage Title" width="400">
 </a>
-<a href="https://netflixcatt.netlify.app/">
+<a href="https://cattflix.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/f73b928a-74c7-416f-ba10-3126e4b92e90" alt="Webpage Title" width="400">
 </a>
 <a href="https://playstationcat.netlify.app/">
