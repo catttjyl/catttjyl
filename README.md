@@ -3,7 +3,9 @@
 &nbsp;&nbsp;&nbsp; ★ Passionate about **full-stack** software development <br/>
 &nbsp;&nbsp;&nbsp; ☆ Currently working on **Apple Vision Pro** application for medical training <br/>
 &nbsp;&nbsp;&nbsp; ★ Learning **ML/LLM** 。。。 <br/>
-&nbsp;&nbsp;&nbsp; ☆ Dessert-loving fanatic 🍩🍪🌰🍯🍮🍭🍬🍫🍿🍦🥧🧁🍰🎂🍨🍧🍡🍢🥮🍙🍚🍥🍘🥠🍤🥟🍱🍣🍛🥘🥫🍝🍜🍲🥗🌯🌮🥙🥪🌭🍔🍟🍕🥓🥩🍗🍖🥞🥖🥨🧀🥚🍳🥯🥐🍠🍞🌽🥦🥥🍏🍉🍌🍎🍇🥭🍑🍒🍐🍓🍊🍈 <br/>
+&nbsp;&nbsp;&nbsp; ☆ Dessert-loving fanatic 🍩🍪🌰🍯🍮🍭🍬🍫🍿🍦🥧🧁🍰🎂🍨🍧🍡🍢🥮🍙🍚🍥🍘🥠 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍤🍱🍣🍛🥘🥫🍝🍜🍲🥗🌯🌮🥙🥪🌭🍔🍟🍕🥓🥩🍗🍖🥞🥖<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥨🧀🥟🥚🍳🥯🥐🍠🍞🌽🥦🥥🍏🍉🍌🍎🍇🥭🍑🍒🍐🍓🍊🍈<br/>
 &nbsp;&nbsp;&nbsp; ★ Learn more about me ☞ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/) &nbsp;[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:c.jiangyoulun@outlook.com)
 <!--#88C5E5-->
 
