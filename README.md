@@ -1,9 +1,9 @@
 # Hi there, this is ${\color{#79B3E6}\textbf{Youlun}}$ 👋
-&nbsp;&nbsp;&nbsp; ☆ University of Illinois Urbana-Champaign, junior in CEE <br/>
+&nbsp;&nbsp;&nbsp; ☆ University of Illinois Urbana-Champaign, senior in CEE <br/>
 &nbsp;&nbsp;&nbsp; ★ Passionate about **full-stack** software development <br/>
-&nbsp;&nbsp;&nbsp; ☆ Currently working as an undergraduate research assistant in **web development** <br/>
-&nbsp;&nbsp;&nbsp; ★ Learning [**Swift**](https://developer.apple.com/swift/) 。。。 <br/>
-&nbsp;&nbsp;&nbsp; ☆ Dessert-loving fanatic <br/>
+&nbsp;&nbsp;&nbsp; ☆ Currently working on **Apple Vision Pro** application for medical training <br/>
+&nbsp;&nbsp;&nbsp; ★ Learning **ML/LLM** 。。。 <br/>
+&nbsp;&nbsp;&nbsp; ☆ Dessert-loving fanatic 🍩🍪🌰🍯🍮🍭🍬🍫🍿🍦🥧🧁🍰🎂🍨🍧🍡🍢🥮🍙🍚🍥🍘🥠🍤🥟🍱🍣🍛🥘🥫🍝🍜🍲🥗🌯🌮🥙🥪🌭🍔🍟🍕🥓🥩🍗🍖🥞🥖🥨🧀🥚🍳🥯🥐🍠🍞🌽🥦🥥🍏🍉🍌🍎🍇🥭🍑🍒🍐🍓🍊🍈 <br/>
 &nbsp;&nbsp;&nbsp; ★ Learn more about me ☞ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youlun-jiang/) &nbsp;[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:c.jiangyoulun@outlook.com)
 <!--#88C5E5-->
 
@@ -11,6 +11,7 @@
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Swift](https://img.shields.io/badge/swift-4070DE?style=for-the-badge&logo=swift&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
