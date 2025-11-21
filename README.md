@@ -1,8 +1,9 @@
 # Hi there, this is ${\color{#79B3E6}\textbf{Youlun}}$ 👋
-&nbsp;&nbsp;&nbsp; ☆ University of Illinois Urbana-Champaign, senior in CEE <br/>
-&nbsp;&nbsp;&nbsp; ★ Passionate about **full-stack** software development <br/>
+&nbsp;&nbsp;&nbsp; ★ University of Illinois Urbana-Champaign, B.S. in CEE <br/>
+&nbsp;&nbsp;&nbsp; ★ Cornell University, M.Eng. in CS <br/>
+&nbsp;&nbsp;&nbsp; ☆ Passionate about **full-stack** and **mobile** application development <br/>
 &nbsp;&nbsp;&nbsp; ☆ Currently working on **Apple Vision Pro** application for medical training <br/>
-&nbsp;&nbsp;&nbsp; ★ Learning **ML/LLM** 。。。 <br/>
+&nbsp;&nbsp;&nbsp; ☆ Learning **ML/LLM** 。。。 <br/>
 &nbsp;&nbsp;&nbsp; ☆ Dessert-loving fanatic 🍩🍪🌰🍯🍮🍭🍬🍫🍿🍦🥧🧁🍰🎂🍨🍧🍡🍢🥮🍙🍚🍥🍘🥠 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍤🍱🍣🍛🥘🥫🍝🍜🍲🥗🌯🌮🥙🥪🌭🍔🍟🍕🥓🥩🍗🍖🥞🥖<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥨🧀🥟🥚🍳🥯🥐🍠🍞🌽🥦🥥🍏🍉🍌🍎🍇🥭🍑🍒🍐🍓🍊🍈<br/>
