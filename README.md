@@ -1,9 +1,9 @@
-# Hi there, this is ${\color{#79B3E6}\textbf{Youlun}}$ 👋
-&nbsp;&nbsp;&nbsp; ★ University of Illinois Urbana-Champaign, B.S. in CEE <br/>
-&nbsp;&nbsp;&nbsp; ★ Cornell University, M.Eng. in CS <br/>
+# Hi there, this is ${\textbf{Youlun}}$ 👋
+&nbsp;&nbsp;&nbsp; ★ Just Graduated from UIUC. ${\color{#FF5F05}Go \color{#001489}Illini!}$ <br/>
+&nbsp;&nbsp;&nbsp; ★ Currently a CS M.Eng. student at Cornell. ${\color{#B31B1B}Go Big Red!}$ <br/>
 &nbsp;&nbsp;&nbsp; ☆ Passionate about **full-stack** and **mobile** application development <br/>
-&nbsp;&nbsp;&nbsp; ☆ Currently working on **Apple Vision Pro** application for medical training <br/>
-&nbsp;&nbsp;&nbsp; ☆ Learning **ML/LLM** 。。。 <br/>
+&nbsp;&nbsp;&nbsp; ☆ Currently working on **AI Agent**, **chatbots**, and custom **RAG** application <br/>
+&nbsp;&nbsp;&nbsp; ☆ Actively learning **ML/LLM/NLP** 。。。 <br/>
 &nbsp;&nbsp;&nbsp; ☆ Dessert-loving fanatic 🍩🍪🌰🍯🍮🍭🍬🍫🍿🍦🥧🧁🍰🎂🍨🍧🍡🍢🥮🍙🍚🍥🍘🥠 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍤🍱🍣🍛🥘🥫🍝🍜🍲🥗🌯🌮🥙🥪🌭🍔🍟🍕🥓🥩🍗🍖🥞🥖<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥨🧀🥟🥚🍳🥯🥐🍠🍞🌽🥦🥥🍏🍉🍌🍎🍇🥭🍑🍒🍐🍓🍊🍈<br/>
@@ -36,6 +36,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 💫 Latest projects I'm working on
+<a href="https://github.com/catttjyl/blog-web-ai-helper.git">
+  <img src="https://github.com/user-attachments/assets/6491ec75-d7e1-4738-800a-c779336c8934"  alt="Webpage Title" height="300"/>
+</a>
 
 <a href="https://senmapweb.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="Webpage Title" width="400">
@@ -46,21 +49,4 @@
 <a href="https://cattflix.netlify.app/">
   <img src="https://github.com/catttjyl/catttjyl/assets/92762878/f73b928a-74c7-416f-ba10-3126e4b92e90" alt="Webpage Title" width="400">
 </a>
-<a href="https://playstationcat.netlify.app/">
-  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/91c7a39d-68fa-48b0-9e8d-83a27f914b16" alt="Webpage Title" width="400">
-</a>
 
-<!--
-**catttjyl/catttjyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
