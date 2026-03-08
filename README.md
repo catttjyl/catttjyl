@@ -36,17 +36,19 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 💫 Latest projects I'm working on
-<a href="https://github.com/catttjyl/blog-web-ai-helper.git">
-  <img src="https://github.com/user-attachments/assets/6491ec75-d7e1-4738-800a-c779336c8934"  alt="Webpage Title" height="300"/>
+<a href="https://voxelized.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/5d111348-8d8b-452b-b33e-67b90dc47741" alt="Voxel" width="400"/>
 </a>
-
+<a href="https://github.com/catttjyl/blog-web-ai-helper.git">
+  <img src="https://github.com/user-attachments/assets/6491ec75-d7e1-4738-800a-c779336c8934"  alt="AI-assist blogging" height="300"/>
+</a>
 <a href="https://senmapweb.netlify.app/">
-  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="Webpage Title" width="400">
+  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/d7914433-d79c-4e0e-abaf-e497b31d29e0" alt="senmap" width="400">
 </a>
 <a href="https://chat-app-cat.netlify.app/">
-  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/5e02a62e-4ba7-4b44-a074-35e77a1921c8" alt="Webpage Title" width="400">
+  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/5e02a62e-4ba7-4b44-a074-35e77a1921c8" alt="chatapp" width="400">
 </a>
 <a href="https://cattflix.netlify.app/">
-  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/f73b928a-74c7-416f-ba10-3126e4b92e90" alt="Webpage Title" width="400">
+  <img src="https://github.com/catttjyl/catttjyl/assets/92762878/f73b928a-74c7-416f-ba10-3126e4b92e90" alt="catflix" width="400">
 </a>
 
